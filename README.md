@@ -6,4 +6,4 @@
 
 2º [Ghost Gobble Game](https://exercism.org/tracks/python/exercises/ghost-gobble-arcade-game)
 
-3º [Currency Exchange](https://exercism.org/tracks/python/exercises/currency-exchange)
+3º [Currency Exchange](https://exercism.org/tracks/python/exercises/currency-exchange) - ongoing
