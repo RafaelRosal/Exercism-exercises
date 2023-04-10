@@ -74,8 +74,8 @@ def fail_safe(temperature, neutrons_produced_per_second, threshold):
     
     if x < z:
         return 'LOW'
-    elif x < y:
+    elif x < y or x > y and x <= threshold:
         return 'NORMAL'
-    else:
+    elif x > threshold:
         return 'DANGER'
     
