@@ -66,6 +66,5 @@ def exchangeable_value(budget, exchange_rate, spread, denomination):
     """
     
     newExchangeRate = exchange_rate + (exchange_rate * (spread / 100))
-    print(type(newExchangeRate))
-
-    return int((budget / newExchangeRate) )
+    
+    return budget // newExchangeRate
