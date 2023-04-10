@@ -8,4 +8,6 @@
 
 3. [Currency Exchange](https://exercism.org/tracks/python/exercises/currency-exchange) - interrupted(function error)
 
-4. [Meltdown Mitigation](https://exercism.org/tracks/python/exercises/meltdown-mitigation) - ongoing
+4. [Meltdown Mitigation](https://exercism.org/tracks/python/exercises/meltdown-mitigation)
+
+5. [Bob](https://exercism.org/tracks/python/exercises/bob) - ongoing
