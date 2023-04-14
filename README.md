@@ -6,8 +6,8 @@
 
 2. [Ghost Gobble Game](https://exercism.org/tracks/python/exercises/ghost-gobble-arcade-game)
 
-3. [Currency Exchange](https://exercism.org/tracks/python/exercises/currency-exchange) - ongoing
+3. [Currency Exchange](https://exercism.org/tracks/python/exercises/currency-exchange)
 
 4. [Meltdown Mitigation](https://exercism.org/tracks/python/exercises/meltdown-mitigation)
 
-5. [Bob](https://exercism.org/tracks/python/exercises/bob) - interrupted
+5. [Bob](https://exercism.org/tracks/python/exercises/bob) - ongoing
